@@ -1,0 +1,5 @@
+print("File ini untuk menguji kode Python.")
+nama = input("Masukkan nama Anda: ")
+job = input("Masukkan pekerjaan Anda: ")
+nama_perusahaan = input("Masukkan nama perusahaan Anda: ")
+print(f"Halo {nama}, Anda bekerja sebagai {job} di perusahaan {nama_perusahaan}.")
